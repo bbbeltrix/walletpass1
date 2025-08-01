@@ -1,0 +1,5 @@
+# _config.yml
+# MIME type for .pkpass files
+webrick:
+  mimeTypes:
+    pkpass: "application/vnd.apple.pkpass"
